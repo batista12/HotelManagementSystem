@@ -9,12 +9,12 @@ import org.junit.Test;
  */
 public class HotelTest 
 {
-    /**
-     * Rigorous Test :-)
-     */
-    @Test
-    public void shouldAnswerWithTrue()
-    {
-        assertTrue( true );
+
+    	 @Test
+    	    public void shouldAnswerWithTrue()
+    	    {
+    	        assertTrue( true );
+    	    }
+
     }
-}
+
